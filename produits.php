@@ -23,7 +23,7 @@ $products = [
     ],
     [
         'name' => 'Voiture de sport tuning',
-        'description' => 'Pour toi beau goss !',
+        'description' => 'Pour toi BG !',
         'price' => '10000'
     ]
 ];
